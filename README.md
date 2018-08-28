@@ -2,6 +2,7 @@
 
 ## Steps to run the app.
 
+
 1. Run the file main.py in the console
 
 2.- The following menu will display:
@@ -56,6 +57,6 @@ Select an option: q
 
 ## Files description
 
-Main.py - contains the user menu.
-Utils.py - contains the method used to print the data.
-Movies.py - contains the method to use api.
+* Main.py - contains the user menu.
+* Utils.py - contains the method used to print the data.
+* Movies.py - contains the method to use api.
